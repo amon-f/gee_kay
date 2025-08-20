@@ -111,7 +111,7 @@ body {
 /* Hero */
 .hero-section {
   height: 100vh;
-  background: url('/images/bg.jpg') center/cover no-repeat;
+  background: url('../images/bg.png') center/cover no-repeat;
   position: relative;
 }
 
@@ -180,7 +180,7 @@ body {
 
 /* About */
 .about-section {
-  background: url('/assets/images/about.jpg') center/cover no-repeat fixed;
+  background: url('../images/about.jpg') center/cover no-repeat fixed;
   position: relative;
 }
 .about-section::before {
